@@ -1,0 +1,7 @@
+C:\Users\Dênis\source\repos\ReportSaleSystem\ReportSaleSystem\obj\Debug\ReportSaleSystem.csprojAssemblyReference.cache
+C:\Users\Dênis\source\repos\ReportSaleSystem\ReportSaleSystem\obj\Debug\ReportSaleSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dênis\source\repos\ReportSaleSystem\ReportSaleSystem\bin\Debug\ReportSaleSystem.exe.config
+C:\Users\Dênis\source\repos\ReportSaleSystem\ReportSaleSystem\bin\Debug\ReportSaleSystem.exe
+C:\Users\Dênis\source\repos\ReportSaleSystem\ReportSaleSystem\bin\Debug\ReportSaleSystem.pdb
+C:\Users\Dênis\source\repos\ReportSaleSystem\ReportSaleSystem\obj\Debug\ReportSaleSystem.exe
+C:\Users\Dênis\source\repos\ReportSaleSystem\ReportSaleSystem\obj\Debug\ReportSaleSystem.pdb
